@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429959674730",
+    "project_id": "dicep-d63b2",
+    "storage_bucket": "dicep-d63b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429959674730:android:b7393f2000f756bc450313",
+        "android_client_info": {
+          "package_name": "com.example.dicep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxOoZJB-Xe84l4n04Fnu0EwhdySpAB-40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
